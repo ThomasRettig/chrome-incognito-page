@@ -1,7 +1,9 @@
-# chrome-incognito-page
+# Google Chrome's Incognito Page Source
+## Contents :scroll:
+This repository contains the source code of Google Chrome's incognito mode page. Static files like javascript or css are contained in the `static` directory.
 
-> Chrome's Incognito page source-code dump
+## Screenshot
+![Screenshot](static/out.png)
 
-### Output
-
-![](static/out.png)
+### Contributors
+- [aika](https://github.com/redpfire)
